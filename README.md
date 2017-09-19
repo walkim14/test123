@@ -20,4 +20,4 @@ int main()
 }
 ~~~
 
-![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
+![GitHub Logo](https://img-9gag-fun.9cache.com/photo/aZg8m73_700b.jpg)
