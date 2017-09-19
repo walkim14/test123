@@ -19,3 +19,5 @@ int main()
   return 0;
 }
 ~~~
+
+![GitHub Logo](https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png)
