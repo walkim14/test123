@@ -9,4 +9,13 @@ Strauß, Strutz, Tuttner, Uhl, Waltl, Wieser, Zitz
 * GIT
 * GitHub
 * Markdown  
-[Mastering Markdown] https://guides.github.com/features/mastering-markdown/
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
+~~~C
+#include <stdio.h>
+int main()
+{
+  printf("hallo");
+  return 0;
+}
+~~~
